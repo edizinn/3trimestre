@@ -1,15 +1,15 @@
 body{
-    background-color: #E4F1FF;
+    background-color: #000000;
 }
 
 h1{
-   color: #201C8D;
+   color: rgb(255, 0, 0);
    font-size:50px;
    text-align:center;
 }
 
 p{
-   color: #362FD9;
+   color: #0800ff;
    font-size:30px;
    text-align:justify
 }
