@@ -2,19 +2,19 @@ body {
     background-color: #000000;
 }
 
-titulo {
+#titulo {
    color: #eb001f;
    font-size: 50px;
    text-align:center;
 }
 
-texto {
+.texto {
    color: #362fd9;
    font-size:30px;
    text-align:justify;
 }
 
-imagem{
+#imagem{
    height: 150px;
    width: 150px;
    padding: 5px;
