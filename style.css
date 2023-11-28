@@ -1,14 +1,14 @@
-body{
+body {
     background-color: #000000;
 }
 
-h1{
+#titulo {
    color: #eb001f;
    font-size: 50px;
    text-align:center;
 }
 
-p{
+.texto {
    color: #362fd9;
    font-size:30px;
    text-align:justify;
