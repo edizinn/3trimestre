@@ -1,9 +1,23 @@
 body {
-    background-color: #000000;
+   background-image:linear-gradient(#000000, #f4f1f4);
+   font-family: sans-serif;
 }
 
-#titulo {
-   color: #eb001f;
+header{
+   padding: 20px;
+   color:#0e21a0;
+   font-size: 30px;
+   border-bottom: 5px solid #362fd9;
+   background: #bfbfbf;
+}
+
+.cabecalho {
+   display: flex;
+   justify-content: space-around;
+
+   
+ #titulo {
+   color: 362fd9;
    font-size: 50px;
    text-align:center;
 }
